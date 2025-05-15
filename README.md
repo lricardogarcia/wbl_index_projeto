@@ -1,7 +1,3 @@
-Claro! Abaixo está o seu `README.md` **refatorado e totalmente estruturado**, agora integrando todos os **novos gráficos** e mantendo uma organização clara, ideal para publicação em repositórios como GitHub, portfólio pessoal ou até documentação técnica.
-
----
-
 # 📊 Projeto: Análise Global do Índice de Igualdade Legal para Mulheres (WBL Index)
 
 Este projeto analisa a evolução do **Women, Business and the Law Index Score (WBL Index)** — um indicador do Banco Mundial que avalia como leis e regulamentos afetam a vida econômica das mulheres em diferentes países.
