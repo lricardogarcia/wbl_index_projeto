@@ -99,19 +99,6 @@ Este dataset pode ser utilizado diretamente em ferramentas de BI como Power BI o
 
 ---
 
-## 📈 Integração com Power BI
-
-No Power BI, foram criadas as seguintes visualizações:
-
-* **Segmentações por ano e país**
-* **Cartões com KPIs**: índice médio, crescimento, país com melhor performance
-* **Gráficos de linha, barras e ranking**
-* **Mapa mundial de calor interativo**
-
-📷 *\[Adicione aqui screenshots do seu Power BI]*
-
----
-
 ## 🧠 Insights Extraídos
 
 * O Brasil melhorou significativamente até 2019, mas **estagnou nos anos seguintes**.
