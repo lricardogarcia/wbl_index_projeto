@@ -1,4 +1,4 @@
-# 📊 Projeto: Análise Global do Índice de Igualdade Legal para Mulheres (WBL Index)
+# Análise Global do Índice de Igualdade Legal para Mulheres (WBL Index)
 
 Este projeto analisa a evolução do **Women, Business and the Law Index Score (WBL Index)** — um indicador do Banco Mundial que avalia como leis e regulamentos afetam a vida econômica das mulheres em diferentes países.
 
@@ -96,19 +96,6 @@ Este dataset pode ser utilizado diretamente em ferramentas de BI como Power BI o
 ### 🌎 5. Comparação entre Países da América Latina – 2022
 
 ![](images/latam_wbl_2022.png)
-
----
-
-## 📈 Integração com Power BI
-
-No Power BI, foram criadas as seguintes visualizações:
-
-* **Segmentações por ano e país**
-* **Cartões com KPIs**: índice médio, crescimento, país com melhor performance
-* **Gráficos de linha, barras e ranking**
-* **Mapa mundial de calor interativo**
-
-📷 *\[Adicione aqui screenshots do seu Power BI]*
 
 ---
 
